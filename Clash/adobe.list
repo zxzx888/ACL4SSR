@@ -2,9 +2,9 @@
 # and shouldn't interfere with any other network option,
 # such as AI generation, downloads, etc.
 # Pop up window? Report at:
-# https://gitlab.com/ignaciocastro/a-dove-is-dumb/-/issues
+# https://github.com/ignaciocastro/a-dove-is-dumb/issues
 # Or follow updates at https://a.dove.isdumb.one/telegram
-# Last update: 2025-05-12 18:12 UTC
+# Last update: 2025-05-21 22:19 UTC
 DOMAIN,ic.adobe.io
 DOMAIN,cc-api-data.adobe.io
 DOMAIN,0mo5a70cqa.adobe.io
@@ -2198,3 +2198,32 @@ DOMAIN,3ts8nqaa.td3wc.adobestats.io
 DOMAIN,nggjmvrf.td3wc.adobestats.io
 DOMAIN,pgitt5i7.pkxns.adobestats.io
 DOMAIN,dprlikm0.4p4bv.adobestats.io
+DOMAIN,km27j67xpk.adobestats.io
+DOMAIN,qwl0xab342h.nr94p.adobestats.io
+DOMAIN,c5rcz8e4bb.adobestats.io
+DOMAIN,z2uvp9phr3.adobestats.io
+DOMAIN,tylw260hpfx9.hzm8t.adobestats.io
+DOMAIN,6i9q4h729.hzm8t.adobestats.io
+DOMAIN,653vk4k82.i26lu.adobestats.io
+DOMAIN,8vlkdwybsy.adobestats.io
+DOMAIN,abri7u7j5o.adobestats.io
+DOMAIN,dfe2rxce7v.adobestats.io
+DOMAIN,n41jbn4j3r.adobestats.io
+DOMAIN,s52sjtkq1c.adobestats.io
+DOMAIN,trl93kvem4.adobestats.io
+DOMAIN,ue90frv126.adobestats.io
+DOMAIN,x9flk27tr5.adobestats.io
+DOMAIN,kwneani3.hzm8t.adobestats.io
+DOMAIN,990z95q9.i26lu.adobestats.io
+DOMAIN,j7e44xrx.2cmyg.adobestats.io
+DOMAIN,5lvrqzev.uoszu.hstatic.io
+DOMAIN,hiz8qil2.vf1av.adobestats.io
+DOMAIN,f9zugm0g.4p4bv.adobestats.io
+DOMAIN,93p9mm58d2.adobestats.io
+DOMAIN,qwt086x1f0.adobestats.io
+DOMAIN,019n8v7a8f.adobestats.io
+DOMAIN,eri00rc7.ay6tu.adobestats.io
+DOMAIN,4m2s5e2nl6.adobestats.io
+DOMAIN,8uwenabqq9.adobestats.io
+DOMAIN,r02kjpvh.4p4bv.adobestats.io
+DOMAIN,tco610tzo.pkxns.adobestats.io
